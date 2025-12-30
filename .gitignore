@@ -1,0 +1,15 @@
+# Gradle
+.gradle/
+build/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+*.log
+*.tmp
+.DS_Store
+
+# Node (just in case)
+node_modules/
